@@ -1,4 +1,4 @@
-## Retirement of convolution - blog link []
+## Retirement of convolution - blog link [https://medium.com/mlearning-ai/retirement-of-convolutions-c589d084c679]
 
 
 Here is the simple implementation of the vision transformers for image classification. you just have to add path to the data (train & test). specify number of classes and you are done.
